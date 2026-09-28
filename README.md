@@ -49,7 +49,7 @@ cp .env.example .env   # then fill in local values
 ## Roadmap
 
 - [x] Phase 1 — Architecture, repository, folder structure
-- [ ] Phase 2 — FastAPI backend
+- [x] Phase 2 — FastAPI backend
 - [ ] Phase 3 — PostgreSQL
 - [ ] Phase 4 — Authentication
 - [ ] ... (phases 5–15)
